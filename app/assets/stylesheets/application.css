@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+.text{
+  border-left: 7px solid rgb(216, 216, 216);
+  padding: 20px;
+}
+
+#ask-new{
+  text-decoration: none;
+  margin-top: 15px;
+}
+
+.container{
+  margin-top: 25px;
+}
